@@ -25,11 +25,11 @@
     "products": [
         {
             "id": 1,
-            "name": "LED display",
-            "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
-            "price": 92,
+            "name": "Cappucino",
+            "description": "Foarte buna cafea",
+            "price": 25,
             "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+            "photo_url": "https://raw.githubusercontent.com/sofia0008/Proiect_final_G1/main/img/cappucino.jpg"
         },
         {
             "id": 2,
